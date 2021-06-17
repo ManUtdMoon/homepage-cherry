@@ -1,5 +1,6 @@
-
+---
 active: false
+---
 
 +++
 # A Demo section created with the Blank widget.
